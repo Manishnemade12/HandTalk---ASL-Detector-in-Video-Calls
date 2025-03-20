@@ -43,7 +43,7 @@ Follow these steps to set up and run the project:
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/Yashgabani845/GestureGenius.git
+git clone https://github.com/Manishnemade12/HandTalk---ASL-Detector-in-Video-Calls.git
 cd GestureGenius
 ```
 
